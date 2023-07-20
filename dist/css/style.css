@@ -1071,7 +1071,9 @@ button,input,select,textarea,label{
     }
 }
 .is-boxed{
-    background:#141516;
+    /* background:#1e1f21 */
+	background: #141516;
+	
 }
 .body-wrap{
     background:#141516;
